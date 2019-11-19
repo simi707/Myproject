@@ -1,1 +1,1 @@
-print ("Hello Python!") 
+print ("Hello Python and code is easy!")
